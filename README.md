@@ -3,4 +3,4 @@
 
 ##安装脚本
 
-bash <(curl -s -L https://git.io/v2ray.sh)
+bash <(curl -s -L https://github.com/wtf1998/v2ray/V2ray.sh)
